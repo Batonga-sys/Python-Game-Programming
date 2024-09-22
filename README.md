@@ -26,18 +26,23 @@ Ainsi, si le serpent se heurte à son propre corps ou aux murs de l’aire de je
 • Génération aléatoire de la nourriture qui permet de générer des pommes de manière aléatoire après que le joueur a mangé une pomme.
 
 ### 2️⃣ Fonctionnalités secondaires :
+
 ▪ Un écran d’accueil avant le jeu qui résume le principe du Snake
+
 ▪ Un design accrocheur
-▪ Des images dans le jeu tel qu’une pomme / un serpent (un serpent
-un peu réel)
+
+▪ Des images dans le jeu tel qu’une pomme / un serpent (un serpent un peu réel)
+
 ▪ Un effet sonore adapté le jeu
-▪ Le meilleur score du jeu ( une fonctionnalité de classement du
-meilleur score)
-▪ Un écran d’accueil résumant le jeu et une fonction « pause » dans
-le jeu.
-4. Spécificités techniques:
+
+▪ Le meilleur score du jeu ( une fonctionnalité de classement du meilleur score)
+
+▪ Un écran d’accueil résumant le jeu et une fonction « pause » dans le jeu.
+
+### 3️⃣ Spécificités techniques:
+
 o Langage de programmation : Le jeu est développé en Python 3
+
 o Le jeu est exécutable depuis un terminal de commande Python ou
-un environnement de développent Python tel que Jupiter.
-o Bibliothèque utilisée : Pygame (module qui offre des outils
-permettant de créer des jeux)
+
+o Bibliothèque utilisée : Pygame (module qui offre des outilspermettant de créer des jeux)
