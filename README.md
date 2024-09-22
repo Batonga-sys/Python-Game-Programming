@@ -1,13 +1,16 @@
 # Python-Game-Programming 🐍
 
-# Contexte du projet : 
+# Contexte du projet ✏️ : 
 
-Il est question de coder un jeu de serpent (Snake pour les intimes) durant lequel le joueur contrôle un serpent, qui doit slalomer entre les bords de l'écran et les obstacles qui parsèment le jeu. Pour gagner en croissance, le joueur doit faire manger à son serpent un certain nombre de pastilles similaire à de la nourriture (une pomme), allongeant à chaque fois la taille du serpent.
+Il est question de coder un jeu de serpent (Snake pour les intimes) durant lequel le joueur contrôle un serpent, qui doit slalomer entre les bords de l'écran et les obstacles qui parsèment le jeu. Pour gagner en croissance, le joueur doit faire manger à son serpent un certain nombre de pastilles similaire à de la nourriture (une pomme 🍎), allongeant à chaque fois la taille du serpent.
 
 Alors que le serpent avance inexorablement, le joueur ne peut que lui indiquer une direction à suivre (en haut, en bas, à gauche, à droite) afin d'éviter que la tête du serpent ne touche les murs ou son propre corps, auquel cas il risque de mourir.
 Ainsi, si le serpent se heurte à son propre corps ou aux murs de l’aire de jeu, il meurt et le jeu se termine.
 
+
+
 # Analyses fonctionnelles :
+
 1. Fonctionnalités principales :
 • Avoir un serpent qui grandit en mangeant de la nourriture. Dans ce
 code, il est question de manger des pommes
