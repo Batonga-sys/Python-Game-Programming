@@ -11,20 +11,21 @@ Ainsi, si le serpent se heurte à son propre corps ou aux murs de l’aire de je
 
 # Analyses fonctionnelles :
 
-1. Fonctionnalités principales :
-• Avoir un serpent qui grandit en mangeant de la nourriture. Dans ce
-code, il est question de manger des pommes
+### 1️⃣ Fonctionnalités principales :
+   
+• Avoir un serpent qui grandit en mangeant de la nourriture. Dans ce code, il est question de manger des pommes
+
 • Avoir des bordures dans le jeu
-3
-• Le serpent évite de se heurter aux murs et évite de se cogner luimême
+
+• Le serpent évite de se heurter aux murs et évite de se cogner lui-même
+
 • Avoir un score permettant de connaitre l’évolution du serpent
-• Les contrôles pour l’utilisateur : Il permet au joueur de contrôler le
-serpent en utilisant les touches fléchées du clavier ou d'autres
-touches de son choix.
-• Génération aléatoire de la nourriture qui permet de générer des
-pommes de manière aléatoire après que le joueur a mangé une
-pomme.
-2. Fonctionnalités secondaires :
+
+• Les contrôles pour l’utilisateur : Il permet au joueur de contrôler le serpent en utilisant les touches fléchées du clavier ou d'autres touches de son choix.
+
+• Génération aléatoire de la nourriture qui permet de générer des pommes de manière aléatoire après que le joueur a mangé une pomme.
+
+### 2️⃣ Fonctionnalités secondaires :
 ▪ Un écran d’accueil avant le jeu qui résume le principe du Snake
 ▪ Un design accrocheur
 ▪ Des images dans le jeu tel qu’une pomme / un serpent (un serpent
@@ -34,7 +35,7 @@ un peu réel)
 meilleur score)
 ▪ Un écran d’accueil résumant le jeu et une fonction « pause » dans
 le jeu.
-3. Spécificités techniques:
+4. Spécificités techniques:
 o Langage de programmation : Le jeu est développé en Python 3
 o Le jeu est exécutable depuis un terminal de commande Python ou
 un environnement de développent Python tel que Jupiter.
